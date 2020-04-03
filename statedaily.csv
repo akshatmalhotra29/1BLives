@@ -32,7 +32,6 @@ Date,State,Confirmed,Recovered,Deaths
 30-Mar-20,sikkim,0,0,0
 30-Mar-20,tamilnadu,17,0,0
 30-Mar-20,telangana,7,13,5
-30-Mar-20,total,208,42,13
 30-Mar-20,tripura,0,0,0
 30-Mar-20,uttarakhand,0,0,0
 30-Mar-20,uttarpradesh,24,6,0
@@ -70,7 +69,6 @@ Date,State,Confirmed,Recovered,Deaths
 31-Mar-20,sikkim,0,0,0
 31-Mar-20,tamilnadu,57,2,0
 31-Mar-20,telangana,20,0,0
-31-Mar-20,total,288,19,7
 31-Mar-20,tripura,0,0,0
 31-Mar-20,uttarakhand,0,0,0
 31-Mar-20,uttarpradesh,8,0,0
@@ -108,7 +106,6 @@ Date,State,Confirmed,Recovered,Deaths
 01-Apr-20,sikkim,0,0,0
 01-Apr-20,tamilnadu,110,0,0
 01-Apr-20,telangana,30,0,3
-01-Apr-20,total,424,9,13
 01-Apr-20,tripura,0,0,0
 01-Apr-20,uttarakhand,0,0,0
 01-Apr-20,uttarpradesh,13,0,2
@@ -146,13 +143,12 @@ Date,State,Confirmed,Recovered,Deaths
 02-Apr-20,sikkim,0,0,0
 02-Apr-20,tamilnadu,75,0,0
 02-Apr-20,telangana,27,3,0
-02-Apr-20,total,486,22,11
 02-Apr-20,tripura,0,0,0
 02-Apr-20,uttarakhand,3,0,0
 02-Apr-20,uttarpradesh,11,0,0
 02-Apr-20,westbengal,16,0,0
 03-Apr-20,andamanandnicobarislands,0,0,0
-03-Apr-20,andhrapradesh,0,0,0
+03-Apr-20,andhrapradesh,12,0,0
 03-Apr-20,arunachalpradesh,0,0,0
 03-Apr-20,assam,0,0,0
 03-Apr-20,bihar,0,0,0
@@ -184,7 +180,6 @@ Date,State,Confirmed,Recovered,Deaths
 03-Apr-20,sikkim,0,0,0
 03-Apr-20,tamilnadu,0,0,0
 03-Apr-20,telangana,0,0,0
-03-Apr-20,total,22,1,0
 03-Apr-20,tripura,0,0,0
 03-Apr-20,uttarakhand,0,0,0
 03-Apr-20,uttarpradesh,0,0,0

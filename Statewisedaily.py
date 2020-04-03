@@ -4,7 +4,7 @@ import numpy as np
 def transform(df,text):
     lst=[]
     dates=df['date']
-    df.drop(['status','date'],axis=1,inplace=True)
+    df.drop(['status','date','total'],axis=1,inplace=True)
     for i,dt in enumerate(dates):
         for j,col in enumerate(df.columns):
             lst.append([dt,col,df.iloc[i,j]])
