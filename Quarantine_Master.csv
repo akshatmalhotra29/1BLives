@@ -1,11 +1,11 @@
-FacilityID,FacilityName,Pin,City,State,Nb_beds_available,Nb_patients
-DL_001,ShelterHome-Dwarka,110092,Delhi,DELHI,100,50
-MH_001,LeelavatiHospital,400050,Mumbai,Maharastra,140,73
-KL_101,CommunityHall-Kochi,682001,Kochi,Kerela,240,150
-MH_002,DY Patil stadium,411002,pune,Maharastra,400,220
-DL_003,JLN Stadium,110096,Delhi,DELHI,100,70
-UP_004,Kailash Hospital,121002,Noida,Uttar Pradesh,380,100
-TN_001,St. Stephens Hospital,600001,chennai,TamilNadu,450,125
-MH_003,Max Health Hospital,411001,pune,Maharastra,200,90
-HR_001,RajivGandhi Hospital,122002,Gurgaon,Haryana,100,50
-DL_002,AIIMS,110023,Delhi,DELHI,80,40
+FacilityID,FacilityName,Pin,City,State,Nb_beds_available,Nb_patients,Positive,,,,
+UP_004,Kailash Hospital,121002,Noida,Uttar Pradesh,380,100,13,,,,
+TN_001,St. Stephens Hospital,600001,chennai,TamilNadu,450,125,3,,,,
+MH_003,Max Health Hospital,411001,pune,Maharastra,200,90,8,,,,
+MH_002,DY Patil stadium,411002,pune,Maharastra,400,220,28,,,,
+MH_001,LeelavatiHospital,400050,Mumbai,Maharastra,140,73,8,,,,
+KL_001,CommunityHall-Kochi,682001,Kochi,Kerela,240,150,10,,,,
+HR_001,RajivGandhi Hospital,122002,Gurgaon,Haryana,100,50,1,,,,
+DL_003,JLN Stadium,110096,Delhi,DELHI,100,70,56,,,,
+DL_002,AIIMS,110023,Delhi,DELHI,80,40,32,,,,
+DL_001,ShelterHome-Dwarka,110092,Delhi,DELHI,100,50,40,,,,
